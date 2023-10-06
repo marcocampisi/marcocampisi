@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ciao, sono Marco Campisi! 👋
 
-<!--
-**marcocampisi/marcocampisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuti nel mio GitHub.
 
-Here are some ideas to get you started:
+## Chi sono?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Sviluppatore web Full Stack con esperienza in frontend e backend.
+- 🐍 Mi piace Python.
+- 🎧 Ogni mia sessione di coding è accompagnata dalla sua soundtrack.
+- 💪🏻 Sempre alla ricerca di nuovi modi per migliorarmi.
+
+## Cosa puoi trovare qui?
+
+Troverai una varietà di progetti, la maggior parte dei quali provengono dal bootcamp di Boolean.
+
+## Contattami
+
+Sono sempre aperto a nuove collaborazioni e opportunità interessanti. Se hai un progetto in mente o semplicemente vuoi scambiare idee, non esitare a contattarmi. Puoi raggiungermi qui su GitHub o su ✉️ marco.campisi@outlook.it.
