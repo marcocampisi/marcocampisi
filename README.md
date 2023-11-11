@@ -4,10 +4,10 @@ Benvenuti nel mio GitHub.
 
 ## Chi sono?
 
-- 💻 Sviluppatore web Full Stack con esperienza in frontend e backend.
-- 🐍 Mi piace Python.
+- 💻 Sviluppatore Web Full Stack.
 - 🎧 Ogni mia sessione di coding è accompagnata dalla sua soundtrack.
 - 💪🏻 Sempre alla ricerca di nuovi modi per migliorarmi.
+- 🚀 Al momento sto imparando React.
 
 ## Cosa puoi trovare qui?
 
